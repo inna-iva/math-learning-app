@@ -32,4 +32,4 @@ The app generates random math problems, tracks the user’s score, and provides 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/innaiqaengineer/math-learning-app.git
+ git clone https://github.com/inna-iva/math-learning-app.git
