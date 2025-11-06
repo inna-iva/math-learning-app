@@ -1,0 +1,5 @@
+Results sorted by score (highest to lowest):
+
+Student: ariel | Correct: 10/10 | Score: 100.00%
+Student: anna | Correct: 7/10 | Score: 70.00%
+Student: inna | Correct: 6/10 | Score: 60.00%
